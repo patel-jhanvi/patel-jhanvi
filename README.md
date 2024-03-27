@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @patel-jhanvi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning AI and ML using Python
-- 💞️ I’m looking to collaborate on AI and ML
-- 📫 How to reach me...
+- 👀 I’m interested in Cloud Technologies
+- 🌱 I’m currently looking for entry level positions in Cloud
+- 📫 How to reach me... Email : patel.jhan@northeastern.edu
+- 
 - 
 
 <!---
