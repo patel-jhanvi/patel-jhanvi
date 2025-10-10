@@ -14,7 +14,7 @@ Being a people person, I love to engage in conversations and exchange ideas. Fro
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python, Java, C/C++
+- **Languages:** HTML, CSS, JavaScript, Typescript, Python, Java, C/C++
 - **Frameworks & Libraries:** React, Node.js, Express
 - **Cloud Technologies:** AWS (EC2, S3, Lambda, RDS, VPC, CloudTrail, CloudWatch, etc.)
 - **Networking:** DHCP, TCP/IP, DNS
