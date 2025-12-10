@@ -1,33 +1,77 @@
-# Hi, I'm Jhanvi Patel 👋
+# Hi, I'm Jhanvi 👋
 
-I build things for the Cloud and Web.
+I’m a full-stack engineer with a focus on **TypeScript, React, Node.js, and GenAI workflows**.  
+I like taking ideas from “rough sketch” to **deployed product** – APIs, frontend, cloud, and everything in between.
 
-As a fresh graduate entering the world of software engineering, I'm driven by the opportunity to build impactful web solutions, with a specialized focus on cloud technologies like AWS. My goal is to craft digital experiences that not only enhance accessibility but also have the power to positively influence and improve the lives of millions. Join me on this journey as I embark on creating innovative products that make a difference.
+- 🎓 M.S. Informatics, Northeastern University (Boston)
+- 🏗️ Recent builds: full-stack **AMRAP Gym System**, **GenAI procurement chatbot**, and **Brewbook city guide**
+- 🌱 Currently deepening: clean architecture, TypeScript, and LLM-powered apps
 
-[Explore my portfolio](#) <!-- Replace with your actual portfolio link -->
+---
 
-## About Me
+## 🔗 Links
 
-Hello! I am Jhanvi Patel, a tech enthusiast passionate about leveraging technology to make a positive impact on people's lives. I recently graduated with a Master's in Informatics, specializing in Cloud Computing, from Northeastern University, Boston. With a solid foundation in Computer Engineering from Gujarat Technological University, India, I'm equipped with the skills to tackle diverse challenges in the tech world.
+- Portfolio: _add your link here_
+- LinkedIn: _add your link here_
+- Email: **pateljhanvik@gmail.com**
 
-Being a people person, I love to engage in conversations and exchange ideas. From developing AI chatbots to optimizing website performance, I thrive on creating impactful solutions that enhance user experiences and drive meaningful change. Let's connect and explore the exciting possibilities in the world of technology together!
+---
 
-## Skills
+## 🛠 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, Typescript, Python, Java, C/C++
-- **Frameworks & Libraries:** React, Node.js, Express
-- **Cloud Technologies:** AWS (EC2, S3, Lambda, RDS, VPC, CloudTrail, CloudWatch, etc.)
-- **Networking:** DHCP, TCP/IP, DNS
-- **Databases:** MySQL
+### Languages & Frameworks
 
-## Contact
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white)
 
-Reach out to me at [patel.jhan@northeastern.edu](mailto:patel.jhan@northeastern.edu)
+---
 
+### Backend, Databases & APIs
 
-  
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=icloud&logoColor=white)
 
-<!---
-patel-jhanvi/patel-jhanvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### AI, Data & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F9AFE?logo=pinboard&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-F36A3D?logo=n8n&logoColor=white)
+
+---
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+---
+
+## 📌 What I like building
+
+- Full-stack apps with **React + TypeScript + Node.js**
+- Backends with **clean architecture**, DI, and **Prisma + SQL**
+- **GenAI tools** using OpenAI, LangChain, Pinecone
+- Dashboards and internal tools that actually get used 🙂
+
+If you’re building something in this space and think I could help, feel free to reach out.
