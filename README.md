@@ -15,9 +15,9 @@ I like taking ideas from “rough sketch” to **deployed product** – APIs, fr
 - LinkedIn: www.linkedin.com/in/jhanvipatel
 - Email: **pateljhanvik@gmail.com**
 - Live Prrojects : 
-https://storyblok-hackathon-2025.vercel.app/
-https://supplierchatbot.com/index.html
-https://amrap-gym.vercel.app/
+https://storyblok-hackathon-2025.vercel.app/ </br> 
+https://supplierchatbot.com/index.html </br>
+https://amrap-gym.vercel.app/ </br>
 
 
 
