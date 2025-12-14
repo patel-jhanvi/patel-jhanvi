@@ -11,9 +11,15 @@ I like taking ideas from “rough sketch” to **deployed product** – APIs, fr
 
 ## 🔗 Links
 
-- Portfolio: _add your link here_
-- LinkedIn: _add your link here_
+- Portfolio: https://jhanvi-patel.netlify.app/
+- LinkedIn: www.linkedin.com/in/jhanvipatel
 - Email: **pateljhanvik@gmail.com**
+- Live Prrojects : 
+https://storyblok-hackathon-2025.vercel.app/
+https://supplierchatbot.com/index.html
+https://amrap-gym.vercel.app/
+
+
 
 ---
 
