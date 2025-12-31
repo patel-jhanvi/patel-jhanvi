@@ -9,6 +9,13 @@ I like taking ideas from “rough sketch” to **deployed product** – APIs, fr
 
 ---
 
+## 💼 Experience
+
+I’ve worked as a software engineer in **Startup Environments**, as well as on academic and project-based teams, building full-stack and GenAI-powered products.
+
+My work includes taking ideas from early concepts to deployed systems, working across frontend, backend, and cloud, and shipping features used by real users.
+
+
 ## 🔗 Links
 
 - Portfolio: https://jhanvi-patel.netlify.app/
